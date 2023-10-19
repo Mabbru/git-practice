@@ -1,0 +1,10 @@
+university
+class
+home
+new
+lecture
+^x
+^X
+exit
+q
+^
